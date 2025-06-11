@@ -2,6 +2,7 @@
 
 This is a fully functional music player web application built using HTML, CSS, and JavaScript.
 
+
 🔧 Features
 
 🎶 Play, Pause, Next, Previous controls
@@ -15,6 +16,7 @@ This is a fully functional music player web application built using HTML, CSS, a
 📜 Playlist with clickable song items
 
 🔁 Autoplay on song end
+
 
 
 📁 How to Use
