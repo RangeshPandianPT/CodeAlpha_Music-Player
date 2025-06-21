@@ -2,6 +2,7 @@
 
 This is a fully functional music player web application built using HTML, CSS, and JavaScript.
 
+---
 
 🔧 Features
 
@@ -17,6 +18,12 @@ This is a fully functional music player web application built using HTML, CSS, a
 
 🔁 Autoplay on song end
 
+---
+
+##PREVIEW 
+![Image](https://github.com/user-attachments/assets/0293ec3b-62dd-4b85-b454-1a88e58e1801)
+
+---
 
 
 📁 How to Use
@@ -32,7 +39,7 @@ This is a fully functional music player web application built using HTML, CSS, a
 
 4. Open index.html in your browser and enjoy the music!
 
-
+---
 
 💡 Bonus
 
@@ -41,4 +48,5 @@ Mobile-responsive design
 Simple and clean UI
 
 Easily customizable for personal playlists
+---
 
